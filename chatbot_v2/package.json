@@ -1,0 +1,10 @@
+{
+  "name": "cobinhood_chatbot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.87.0",
+    "request-promise": "^4.2.2",
+    "axios": "0.18.0"
+  }
+}
